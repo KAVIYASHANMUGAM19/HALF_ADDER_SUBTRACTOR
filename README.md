@@ -51,6 +51,7 @@ Figure -02 HALF Subtractor
 **Program:**
 
 **Half_adder**
+
 ```
 module halfadd_top(a,b,sum,carry);
 input a,b;
